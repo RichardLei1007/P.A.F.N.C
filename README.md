@@ -1,2 +1,2 @@
-# P.I.N.C.M
+# P.A.F.N.C
 Its Just a Calculator
