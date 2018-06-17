@@ -1,7 +1,19 @@
 # P.A.F.N.C
 Its Just a Calculator
 
-Jimmy is always;pM
--8ºπ…≥÷
-“"}poyb ujk90-+[
-\"
+Done:
+
+- Addition
+- Subtraction
+- Mutiplication
+- Division
+
+ToDo:
+
+- Integration
+- Derivation
+
+Maybe:
+
+- Graphs
+- 3D Graphs
